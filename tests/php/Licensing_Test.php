@@ -14,11 +14,11 @@ use WorDBless\BaseTestCase;
 use WP_Error;
 
 /**
- * Class Test_Licensing
+ * Class Licensing_Test
  *
  * @package Automattic\Jetpack
  */
-class Test_Licensing extends BaseTestCase {
+class Licensing_Test extends BaseTestCase {
 	/**
 	 * Test last_error().
 	 */

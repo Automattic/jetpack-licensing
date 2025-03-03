@@ -13,11 +13,11 @@ use WP_REST_Server;
 use WP_User;
 
 /**
- * Class Test_Licensing
+ * Class Licensing_Endpoints_Test
  *
  * @package Automattic\Jetpack
  */
-class Test_Licensing_Endpoints extends BaseTestCase {
+class Licensing_Endpoints_Test extends BaseTestCase {
 
 	/**
 	 * Used to store an instance of the WP_REST_Server.
